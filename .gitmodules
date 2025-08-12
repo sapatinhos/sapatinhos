@@ -1,0 +1,8 @@
+[submodule "botinha"]
+	path = botinha
+	url = git@github.com:sapatinhos/botinha.git
+	branch = main
+[submodule "patinhos"]
+	path = patinhos
+	url = git@github.com:sapatinhos/patinhos.git
+	branch = main
